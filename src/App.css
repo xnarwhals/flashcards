@@ -1,0 +1,89 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  min-height: 500px;
+  min-width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  /* border: 1px solid #e81d1d; */
+}
+
+.info-area, .hint-area{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+
+  width: 300px;
+  height: 500px;
+  right: 75%;
+
+  background-color: beige;
+  border-radius: 8px;
+  /* border: 1px solid red; */
+}
+
+.info-area h2 {
+  width: 200px;
+}
+
+.info-area p {
+  width: 70%;
+  color: black;
+  font-family: 'Gill Sans';
+}
+
+.hint-area {
+  left: 75%;
+}
+
+.info-area h2, .hint-area h2 {
+  font-family: 'Gill Sans';
+  margin: 0;
+  font-size: 1.4em;
+  color: #333;
+}
+
+.hint-text{
+  font-family: 'Gill Sans';
+  color: black;
+  width: 200px;
+  height: auto;
+  user-select: none;
+  margin: 10px;
+  font-style: italic;
+  font-size: x-large;
+
+}
+
+.arrows {
+  margin-top: 30px;
+  display: flex;
+  gap: 100px;
+}
+
+.arrow {
+  color: black;
+  font-weight: 700;
+  padding: 15px 30px;
+}
+
+.hint-btn{
+  margin-top: 20px;
+  color: black;
+  margin-bottom: 10px;
+}
+
+.title {
+  margin: 10px;
+  font-family: 'Gill Sans';
+}
