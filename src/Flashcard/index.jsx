@@ -1,8 +1,5 @@
 import './index.css';
-import {useState} from 'react';
 
-
-// hint functionality in a different component 
 // flip animation via perspective 
 const Flashcard = ({hiddenImg, revealedImg, name, isFlipped, setIsFlipped, pokedexEntry, difficulty}) => {
     const handleClick = () => {
