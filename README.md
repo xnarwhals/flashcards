@@ -1,6 +1,6 @@
-# Web Development Project 3 - *Name of App Here*
+# Web Development Project 3 - *Poke Guesser V2*
 
-Submitted by: **Poke Guesser V2**
+Submitted by: **Xavier Gonzalez**
 
 This web app: **Is designed to help learn about the many pokemon using interactive flashcards**
 
@@ -46,10 +46,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/fd27c2330cf84bc89189cfc184b5f6d1?sid=a4533192-48e0-4bf0-bdfd-728aab4de9a3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
