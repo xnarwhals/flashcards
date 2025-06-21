@@ -46,7 +46,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/fd27c2330cf84bc89189cfc184b5f6d1?sid=a4533192-48e0-4bf0-bdfd-728aab4de9a3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/fd27c2330cf84bc89189cfc184b5f6d1">
+      <p>FlashcardsV2 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/fd27c2330cf84bc89189cfc184b5f6d1">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/fd27c2330cf84bc89189cfc184b5f6d1-a43ff2ffc43061bc-full-play.gif">
+    </a>
+  </div>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
